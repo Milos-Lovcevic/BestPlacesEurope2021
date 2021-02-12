@@ -1,0 +1,81 @@
+[{
+      "id":"0",
+      "destination": "Braga",
+      "country": "Portugal",
+      "description":"Braga has been attracting travellers from all over the world for thousands of years. Braga (1 hour by train from Porto) is sparkling, charming and full of life. The city offers the best of Portugal in a friendly and warm atmosphere.<br/>Stroll through its shopping streets and marvel at the beauty of its Gothic Cathedral. Take a romantic break in the Santa Barbara Garden or walk to the top of Bom Jesus do Monte. Even the sky does not seem to be a limit for Braga and its inhabitants. Whether you are a believer or not, the Sanctuary of Our Lady of Sameiro is breathtakingly beautiful and inspiring.<br/>Shopaholic? No problem, Braga offers a unique experience with a mix of traditional shops, young designer shops and shopping centres. Want to move, dance, laugh and share unforgettable moments? Braga offers high quality events throughout the year. More? The biggest White Night in Europe takes place in Braga with dozens of street concerts. Braga is made for lovers, adventurers, foodies, history buffs and those who seek new trends and experiences. Open your eyes, beauty is all around you! ",
+      "img":"assets/images/braga.jpg",
+      "theBest":" Culture, City break, Shopping, Nature, Gastronomy, Wellness, Instagram addicts."
+    },
+  {
+      "id":"1",
+      "destination": "Rome",
+      "country": "Italy",
+      "description":"For decades it has been one of the favourite European cities for travellers from all over the world. \"Roma Caput Mundi\"  \"Rome is the capital of the world\". This is true in many ways. The Romans shaped the borders of Europe and enriched it culturally like no other civilization.<br/>The province of Rome is a matching frame for the many treasures of the capital, and the surrounding area has, more or less directly, experienced the influence of the history of the Eternal City.<br/>Rome is even more than Paris or Athens an open-air museum. The Italian capital is an ideal destination for a family trip to discover the Colosseum or make a romantic getaway to declare your love on the Spanish steps. Thousands of experiences await you in Rome. ",
+      "img":"assets/images/rome.jpg",
+      "theBest":" Culture, Foodies, Lovers, History."
+    },
+  {
+      "id":"2",
+      "destination": "Cavtat",
+      "country": "Croatia",
+      "description":"Croatia has to be one of the most beautiful countries in the world and Cavtat, located on the Adriatic coast, is a real gem. Breathtakingly splendid, this small town is only 20 kilometres from Dubrovnik. Cavtat will seduce you with the beauty of its landscapes but also the richness of its cultural and historical heritage… and its gastronomy!<br/>Places like Cavtat offering so much to the visitors are quite rare. Its scenery, the rich cultural and historical heritage along with the range of services offered to tourists meet the demands of the present day tourists, thus making it one of the most attractive destinations on the Adriatic coast.<br/>Cavtat caters for all types of travellers. You can walk, take a bike ride, go horseback riding or indulge in water sports. Cavtat is also the ideal choice for a family holiday to bask in the sun or for active holidays. Come recharge your batteries in Cavtat, one of the most beautiful destinations in Europe.",
+      "img":"assets/images/cavtat.jpg",
+      "theBest":" Sea, Sun, Gastronomy, Instagram, History, Outdoor activities, Families. "
+    },
+  {
+      "id":"3",
+      "destination": "Florence",
+      "country": "Italy",
+      "description":"It is probably one of the most beautiful cities in the world and certainly one of the best destinations in Europe. Florence had an influence all over the world and still attracts art lovers and lovers. The Florentine Renaissance really changed our way of thinking about man and the world around him. Humanism has its roots in Florence. Dante, Machiavelli, Galileo but also Botticelli, Leonardo da Vinci, Michelangelo, come from Florence.<br/>During your stay you will not fail to visit the \"Cattedrale di Santa Maria del Fiore\", one of the iconic symbols of the Florentine landscape. You will visit the Uffizi Gallery and admire \"The Birth of Venus\" as well as the Galleria dell'Accademia and Michelangelo's most famous statue: \"David\".<br/>Florence is also a foodie's paradise. Visit the Mercato Centrale to taste fresh pasta or a delicious pizza and treat yourself to an authentic Italian ice cream. Take a romantic stroll in the gardens of \"Giardino Bardini\". Come in early spring (April to June) when the wisterias are in bloom, it is even more romantic.",
+      "img":"assets/images/florence.jpg",
+      "theBest":"Lovers, Art, Foodies, Families, Instagrammers."
+    },
+  {
+      "id":"4",
+      "destination": "Sibiu",
+      "country": "Romania",
+      "description":"Sibiu is probably one of the most beautiful cities in Romania and one of the best destinations in Europe. Sibiu is located in the heart of the famous and beautiful historical province of Transylvania. It is a wonderful combination between history and the vibrant spirit of a modern European city.<br/>The city has deep roots in its over 800 years of history, but it is strongly connected to the European present and values and all these result in a unique character for the city. Sibiu is a successful combination between its valuable built and cultural heritage and a European, cosmopolitan, young and dynamic city life.<br/>European capital of Culture a few years ago, Sibiu is also a first choice destination for foodies since Sibiu is the only city in Romania which was awarded 3 Michelin stars. This charming city will appeal to families as well as history buffs, architecture lovers, instagrammers, food addicts and shopping fans. Stroll through its magnificent medieval historic centre, discover the gastronomic and historical riches of Sibiu and its curiosities such as the roofs with eyes or the bridge of Lies. Sibiu is a destination to be discovered all year round. It is sublime in spring and summer and simply magical at Christmas with its Christmas market which is probably one of the most beautiful in Europe.<br/>This year, discover one of the most beautiful destinations in Romania and treat yourself to a getaway mixing city break, nature, culture, gastronomy, shopping in a city that you have again put at the top of your list of the best destinations in Europe.",
+      "img":"assets/images/sibiu.jpg",
+      "theBest":"City break, Culture, History, Gourmets, Families, Lovers, Shopping, Instagrammers."
+    },
+  {
+      "id":"5",
+      "destination": "Paris",
+      "country": "France",
+      "description":"Paris will always be Paris. Whatever the events, the world around us, whatever the fashions, the trends, Paris will always be Paris. Paris is sparkling, generous, cultivated. Paris is that friend we would like to have, the one who says yes when you invite her to a prestigious exhibition and the one who also says yes when you take her on the fairgrounds for sweet childhood pleasures.<br/>Paris is an incredible city, made up of thousands of small villages, neighbourhood life, independent shops, large avenues and charming little alleys. City of lovers, culture, museums, contemporary art, gastronomy, fashion,... Paris is the destination of the heart of those who are curious, who wander, who like to get lost, who like to get into a cafe, in an alley, in a shop without knowing what they will find there.<br/>Paris is perfect for gourmets,  curious,  daring, old and young, lovers. Paris will be in your image, sparkling and luminous, melancholic or romantic, underground or elitist, natural or urban. Paris is good for the soul, the heart, the eyes, the mouth",
+      "img":"assets/images/paris.jpg",
+      "theBest":" Lovers, Families, Modern Art, City break, Shopping, Instagrammers, Foodies, Friends."
+    },
+  {
+      "id":"6",
+      "destination": "Kefalonia Island",
+      "country": "Greece",
+      "description":"This year have a holiday in one of the best European destinations, on one of the most beautiful Greek islands.<br/>Located south of the islands of Corfu and Lefkada, Kefalonia is famous for its sandy coves. Do not miss to visit Myrtos Beach and Antisamos beach. For nature lovers we recommend Melissani Lake, ranked among the best nature wonders in Greece.<br/>Also not to be missed: Xi Beach & the colourful fishing village of Asos. The beach of Xi is famous for the incredible colour of its sand. This red-orange sand, similar to Roland-Garros tennis courts'. The beach has been flying a blue flag for several years now for the exceptional quality of its waters. The ancient, colourful fishing village of Asos is perfect for a family holiday in Kefalonia.<br/>You like good wines, good food? Kefalonia is also a destination for gourmets. After a food tour during which you will enjoy the traditional flavours, exquisite local wines, amazing honey, virgin oil, enjoy a romantic evening on a traditional wooden sailing boat and admire the sunset over the sea.",
+      "img":"assets/images/kefalonia_island.jpg",
+      "theBest":"Sea & Sun lovers, Nature lovers, families, foodies, romantic, Instagrammers."
+    },
+  {
+      "id":"7",
+      "destination": "Kotor",
+      "country": "Montenegro",
+      "description":"This year more than ever you want to travel to dream destinations and you are confirming it by placing Kotor among the best destinations in Europe.<br/>Kotor has succeeded in being both a must-see destination in Europe but also to retain its charm and authenticity. Kotor appeals to lovers of nature, wide open spaces, outdoor sport, history, culture, spiritualities, as well as foodies, Instagrammers, families, lovers, hikers. Everyone loves Kotor and you will love it too.<br/>If you come at the end of August don't miss a costumed boats parade going from Muo to Dobrota, making the bay even more beautiful. If you are passionate for nature, art, history and want to know more about the rich cultural heritage and customs of this region, visit the town of Kotor, the baroque city of Perast and the islet Our lady of the rocks. To live cultural, gastronomic, historical, sporting experiences, but also romantic moments, do not hesitate any longer and stay in Kotor, one of the most beautiful destinations in the world. ",
+      "img":"assets/images/kotor.jpg",
+      "theBest":"  City break, Shopping, Culture, Trekking, Wine, Gastronomy, Nature, Lovers. "
+    },
+  {
+      "id":"8",
+      "destination": "Soca Valley",
+      "country": "Slovenia",
+      "description":"Awarded by the European Commission as one of the best sustainable tourism destinations, Soca Valley is a perfect nature destination for families, sportspeople, lovers,... Soca valley is what you need if you are looking for large spaces, gorges and waterfalls, lakes and caves, rivers but also traditions, know-how, incredible gastronomy.<br/>The beautiful Soča river, which flows at the foot of the Julian Alps, by the Italian border has carved an exhilarating valley and has some of the most gorgeous waters in Europe.<br/>The region covers 942 km2 and is divided into three municipalities: Bovec, Kobarid and Tolmin. The picturesque nature of the valley makes it a paradise for water sports on the river Soča (rafting, kayaking, canoeing, hydro-speed, canyoning, etc.), para-gliders, fly-fishers, rock climbers, hikers and mountain bikers.<br/>Slovenia is really the country to put at the top of your travel wishlist if sustainable tourism, nature, is important to you. During your stay do not miss to visit Bohinj, another sustainable tourism destination labeled \"EDEN\" by the European Commission.",
+      "img":"assets/images/soca_valley.jpg",
+      "theBest":"Sustainable tourism, Nature, Outdoor Sports, Foodies, Families."
+    },
+  {
+      "id":"9",
+      "destination": "Canary Islands",
+      "country": "Spain",
+      "description":"The Canary Islands enjoy permanent sunshine throughout the year. For some of its islands, like Lanzarote, up to 2,500 hours of sunshine a year is reached, a record in Europe. The temperature in winter is never lower than 14 degrees (57 F) and goes up to 20 degrees (68 F) on sunny days.<br/>Canary Islands have something to offer for all of us. It is the right choice for a relaxing, sunny holiday  or for doing sports with your partner or family. Here you can practice water sports, windsurfing, scuba diving and observe the seabed, turtles, dolphins or birdwatching.<br/>Seven main and magnificent islands await you: Tenerife which is the largest and most populous, Lanzarote and its still active volcano, Fuerteventura, the hottest and flattest with its kilometre-long beaches, La Palma which is the greenest but also the wettest, Gran Canaria which is in the centre and is a good compromise for family holidays or for sportsmen who want to trek on its steep hills, but also the islands of El Hierro, La Graciosa and La Gomera.<br/>If you want to treat yourself to a stay like a star and cross Brad Pit, stay on the island of La Palma at the \"Faro Punta Cumplida\" hotel. This former lighthouse has been converted into a boutique hotel with 4 magnificent suites.  Oscars winners, in addition to their statuette, are invited to this unique hotel in the world. Book your flights to Canary Islands and your accommodation at the best price.",
+      "img":"assets/images/canary_islands.jpg",
+      "theBest":"Sun lovers, families, nature lovers, good value for money, instagrammers."
+    }
+ ]
